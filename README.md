@@ -17,7 +17,7 @@ This is a bare-bones base map modeled after the dark monochrome basemap in Mapbo
 ### 2020 Household Median Income Layer
 ![Median Income choropleth layer representing household median income by census tract](imgs/hhmi.png)
 
-This is a map layer that shows median income by census tract from the US 2020 census. Gray tracts have no data. Cleaned census data that was used can be found [here](https://github.com/littlewolverine/GEOG_458_Map_Tiles/assets/data/median_income_20.csv). This layer was created in QGIS by joining that dataset to a shapefile of US census tracts.
+This is a map layer that shows median income by census tract from the US 2020 census. Gray tracts have no data. Cleaned census data that was used can be found [here](https://github.com/littlewolverine/GEOG_458_Map_Tiles/blob/main/assets/data/median_income_20.csv). This layer was created in QGIS by joining that dataset to a shapefile of US census tracts.
 
 ### Census tracts on top of basemap
 ![Census median income data overlayed over the basemap](imgs/hhmi_over_basemap.png)
